@@ -45,6 +45,8 @@ body {
   flex: 1;
 }
 
+/* APORTACION JHOSEF */
+
 .tarjeta-pelicula {
   width: 250px;
   height: 420px;
@@ -104,6 +106,8 @@ body {
   transform: scale(1.05);
   transition: transform 0.5s;
 }
+
+/* FIN de la aportacion. */
 
 .imagen-pelicula {
   width: 100%;
